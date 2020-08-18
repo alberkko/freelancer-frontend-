@@ -1,0 +1,10 @@
+/* .max-w-screen-xl {
+  max-width: 1480px !important;
+} */
+
+.max-w-screen-sxl {
+  max-width: 1480px !important;
+}
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
